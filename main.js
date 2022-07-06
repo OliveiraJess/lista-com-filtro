@@ -5,7 +5,6 @@ const searchField = document.getElementById('searchField');
 
 searchField.addEventListener('input', inputHandler);
 
-
 //preencher lista no front
 for (let i = 0; i < shoppingList.length; i++) {
     let listItems = document.createElement("li");
