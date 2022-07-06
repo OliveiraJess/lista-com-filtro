@@ -1,4 +1,5 @@
-const shoppingList = ['Arroz', 'Feijão', 'Carne', 'Macarrão', 'Bolacha', 'Pão'];
+//lista
+const shoppingList = ['Arroz', 'Feijao', 'Carne', 'Macarrao', 'Bolacha', 'Pao'];
 
 const listEl = document.getElementById('list');
 const searchField = document.getElementById('searchField');
