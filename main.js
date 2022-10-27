@@ -36,4 +36,3 @@ function inputHandler() {
 
     fillLister(filteredList);
 }
-
