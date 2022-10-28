@@ -1,2 +1,2 @@
 # lista-com-filtro
-Lista de itens com filtro de pesquisa.
+Lista de itens com filtro de pesquisa..
